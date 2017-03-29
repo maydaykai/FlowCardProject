@@ -1,0 +1,13 @@
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\obj\Release\RM.DataBase.csprojResolveAssemblyReference.cache
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\RM.DataBase.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\RM.DataBase.pdb
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\Interop.SQLDMO.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\Microsoft.Practices.ServiceLocation.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\Microsoft.Practices.Unity.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\Microsoft.Practices.Unity.Interception.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\RM.Common.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\bin\Release\RM.Common.pdb
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\obj\Release\RM.DataBase.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.DataBase\obj\Release\RM.DataBase.pdb

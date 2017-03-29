@@ -1,0 +1,5 @@
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Model\bin\Debug\RM.Model.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Model\bin\Debug\RM.Model.pdb
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Model\obj\Debug\RM.Model.csprojResolveAssemblyReference.cache
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Model\obj\Debug\RM.Model.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Model\obj\Debug\RM.Model.pdb

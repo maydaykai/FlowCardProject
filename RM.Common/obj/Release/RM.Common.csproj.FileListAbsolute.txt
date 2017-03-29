@@ -1,0 +1,5 @@
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Common\obj\Release\RM.Common.csprojResolveAssemblyReference.cache
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Common\bin\Release\RM.Common.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Common\bin\Release\RM.Common.pdb
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Common\obj\Release\RM.Common.dll
+G:\work资料\大型通用权限管理源码带文档资料\BN065-通用权限\code\RM.Common\obj\Release\RM.Common.pdb
